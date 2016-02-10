@@ -1,0 +1,32 @@
+_repo: The-Memoirs-of-a-White-Elephant_46983
+contributor:
+  illustrators:
+  - agent_name: Smith, L. H.
+    gutenberg_agent_id: '44074'
+    url: http://www.gutenberg.org/2009/agents/44074
+  - agent_name: Kite, S. B.
+    gutenberg_agent_id: '44073'
+    url: http://www.gutenberg.org/2009/agents/44073
+  translator:
+    agent_name: Harvey, S. A. B.
+    gutenberg_agent_id: '44075'
+    url: http://www.gutenberg.org/2009/agents/44075
+creator:
+  author:
+    agent_name: Gautier, Judith
+    birthdate: 1845
+    deathdate: 1917
+    gutenberg_agent_id: '8006'
+    url: http://www.gutenberg.org/2009/agents/8006
+    wikipedia: http://fr.wikipedia.org/wiki/Judith_Gautier
+description: ''
+gutenberg_issued: '2014-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Memoirs of a White Elephant
+url: http://www.gutenberg.org/ebooks/46983
